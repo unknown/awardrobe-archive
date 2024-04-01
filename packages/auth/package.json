@@ -10,7 +10,7 @@
     "clean": "rm -rf .turbo node_modules"
   },
   "dependencies": {
-    "@auth/drizzle-adapter": "^0.4.0",
+    "@auth/drizzle-adapter": "^0.8.2",
     "@awardrobe/db": "workspace:^",
     "@awardrobe/emails": "workspace:^",
     "next-auth": "5.0.0-beta.4"
